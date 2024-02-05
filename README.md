@@ -6,7 +6,7 @@
 ### <div align="center">Frontend engineer 👨‍💻 since 2018 🚀</div>  
   
 
-- 🔭 LG CNS 재직중  
+- 🔭 LG CNS web3 lab 재직중  
   
 
 - 🌱 일기 앱 <마음농장> 개발 중.. expo(react native, typescript), firebase
