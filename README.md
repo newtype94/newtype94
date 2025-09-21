@@ -3,20 +3,10 @@
 </div>  
   
 
-### <div align="center">web3 engineer👨‍💻(frontend를 곁들인) 🚀</div>  
+### <div align="center">web3 engineer👨‍💻</div>  
   
-
 - 🔭 LG CNS web3 lab 재직중  
   
-- 💙 www.newcoding.co.kr 운영
-
-- 🌱 일기 앱 <마음농장> 개발 중.. expo(react native, typescript), firebase 
-
-- ❓ 각종 협업 문의 환영
-  
-- ⚡ Javascript 프레임워크 전문(백엔드 개발 OK)
-  
-
 <br/>  
 
 
